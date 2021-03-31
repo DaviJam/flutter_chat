@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836929217180",
+    "project_id": "flashshat-9a5df",
+    "storage_bucket": "flashshat-9a5df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836929217180:android:02c1c9b74286527ffb8359",
+        "android_client_info": {
+          "package_name": "co.dadajames.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836929217180-smccm27s278ei7jh4vmtt8uf6bhg4ib4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANKphjufu7ACqoCgHk1fXjZLYTrtmg2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836929217180-smccm27s278ei7jh4vmtt8uf6bhg4ib4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
